@@ -1,0 +1,10 @@
+# GIS + OSM + normalización + mapa interactivo (Windows/Linux/macOS)
+geopandas>=0.14.0
+osmnx>=1.9.0
+scikit-learn>=1.3.0
+folium>=0.15.0
+matplotlib>=3.8.0
+mapclassify>=2.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+shapely>=2.0.0
