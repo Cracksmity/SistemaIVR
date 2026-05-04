@@ -91,4 +91,4 @@ Selecciona el vectorial de entrada, revisa rutas de salida (HTML, CSV opcional, 
 
 ## Licencia
 
-Especifica aquí la licencia de tu repositorio (por ejemplo MIT, CC-BY, etc.) según lo acuerdes para el seminario o la institución.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
